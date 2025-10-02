@@ -7,7 +7,11 @@
  * Sorted alphabetically.
  */
 
+#include "atomic.c"
 #include "auxiliary.c"
+#include "barrier.c"
+#include "bitmap.c"
+#include "bitops.c"
 #include "blk.c"
 #include "bug.c"
 #include "build_assert.c"
@@ -22,6 +26,7 @@
 #include "dma.c"
 #include "drm.c"
 #include "err.c"
+#include "irq.c"
 #include "fs.c"
 #include "io.c"
 #include "jump_label.c"
@@ -34,6 +39,7 @@
 #include "pid_namespace.c"
 #include "platform.c"
 #include "poll.c"
+#include "processor.c"
 #include "property.c"
 #include "rbtree.c"
 #include "rcu.c"
