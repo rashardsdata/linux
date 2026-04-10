@@ -21,7 +21,27 @@ mermaid: true
 ## Rashard Kelly 
 MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/) . . . @ucla hi from [Remote @Nasa-JPL](https://holetoanotheruniverse40.github.io/compiling/) 
 
+[ncei.noaa.gov/maps/bathymetry-classic/ @doug-newman-nasa](https://www.ncei.noaa.gov/maps/bathymetry-classic/)
+<img   alt="image" src="https://github.com/user-attachments/assets/3dada0cd-de02-4b10-9624-af5d1cfd9bfd" />
 
+MARiNE _GeoLOGY DataBrowsR @usnavy
+[ncei.noaa.gov/maps/marine_geology/ @NOAA-OWP @NOAA-EPIC](https://www.ncei.noaa.gov/maps/marine_geology/)
+@nasa-pds @nasa-develop @nasa-giss @doug-newman-nasa this might be useful i hope im not too late @blackgirlscode @TheSpaceDevs @BlueOrigin @la-county-isd 
+
+<img alt="image" src="https://github.com/user-attachments/assets/f5bf603a-c771-47fb-b338-64657bd6dd0d" />
+
+[EMAG2v3: Earth Magnetic Anomaly Grid - MAPLiNK](https://www.arcgis.com/apps/mapviewer/index.html?layers=1aaac59a6076461e8e1380a7195222f6&error=invalid_request&error_description=Unable%20to%20sign%20the%20user%20in.%20Please%20use%20create%20an%20account%20option.&messageCode=OAUTH_0051&state=%7B%22portalUrl%22%3A%22https%3A%2F%2Fwww.arcgis.com%22%2C%22uid%22%3A%22CRihG2rJGSZ1IOvXgdeoIj1Q0pZQCFUGDGkIxaVMH-M%22%7D)
+
+<div class="tupperware">
+	
+<img   alt="image" src="https://github.com/user-attachments/assets/5a0968a6-826d-4ce3-acbe-4359d5a37107" />
+
+<img   alt="image" src="https://github.com/user-attachments/assets/3eab3d69-4b50-4bc5-b8db-c741888d0e2d" />
+
+</div>
+
+@nasa-pds @la-county-isd 
+<img  alt="image" src="https://github.com/user-attachments/assets/0bfcd52a-ccc8-4f9a-9096-22eb2df806a1" />
 
 # Preparing for splashdown
 @usNavy @nasa-jpl @la-county-isd @cityofsandeigo
@@ -42,6 +62,9 @@ MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - gi
 Artemis 2 LIVE: Astronauts begin stowing their gear for return Wednesday, April 9, 2026 [read](https://www.space.com/news/live/artemis-2-nasa-moon-mission-updates-april-9-2026) @blackgirlscode @la-county-isd @emit-sds @nasa-jpl
 
 [nasa.gov/missions/artemis-ii/arow/](https://www.nasa.gov/missions/artemis-ii/arow/)
+
+![https://sdo.gsfc.nasa.gov/assets/img/latest/latest_4096_0193.jpg](https://sdo.gsfc.nasa.gov/assets/img/latest/latest_4096_0193.jpg)
+
 
 <img  alt="image" src="https://github.com/user-attachments/assets/6f1dd528-4674-455f-b768-689785b1145c" />
 
