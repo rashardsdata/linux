@@ -19,6 +19,22 @@ mermaid: true
  </div> 
 
 
+## The Artemis II Crew Share with [Oprah](https://www.kennedy-center.org/artists/w/wa-wn/oprah-winfrey/) _the Wisdom of Leaving Earth_ @nasa-jpl @blackgirlscode @emit-sds
+[@blackgirlscode @nasa-jpl youtube.com/watch?v=2ES9WGxEMK0](https://www.youtube.com/watch?v=2ES9WGxEMK0)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/c448b5f1-c103-4ab7-a714-6f65277d66ee" />
+
+
+![https://www.loc.gov/crsinfo/images/capitol.jpg @libraryofcongress](https://www.loc.gov/crsinfo/images/capitol.jpg) 
+
+[https://www.congress.gov/crs_external_products/IF/PDF/IF11643/IF11643.21.pdf](https://www.congress.gov/crs_external_products/IF/PDF/IF11643/IF11643.21.pdf)
+
+<img alt="image" src="https://github.com/user-attachments/assets/cf582200-68b2-488d-9d18-32ca5270b9eb" />
+
+Watch: Artemis II's historic lunar flyby... in 90 seconds [@bbc Link @nasa-jpl @nasa-develop @datadesk](https://www.bbc.com/news/videos/c3exp80x7vqo)
+[https://rashardmro.tumblr.com/post/813379186121162752/nasa-jpl-360](https://rashardmro.tumblr.com/post/813379186121162752/nasa-jpl-360) @blackgirlscode 
+[floridatoday.com/story/tech/science/space/2026/04/08/artemis-ii-splashdown-time-return-schedule-florida-moon-nasa/89513092007/?gnt-cfr=1&gca-cat=p&gca-uir=true&gca-epti=z113029p000750c000750e004900v113029d--30--b--30--&gca-ft=11&gca-ds=sophi](https://www.floridatoday.com/story/tech/science/space/2026/04/08/artemis-ii-splashdown-time-return-schedule-florida-moon-nasa/89513092007/?gnt-cfr=1&gca-cat=p&gca-uir=true&gca-epti=z113029p000750c000750e004900v113029d--30--b--30--&gca-ft=11&gca-ds=sophi)
+
 # Preparing for splashdown
 @usNavy @nasa-jpl @la-county-isd @cityofsandeigo
 [https://www.nasa.gov/blogs/missions/2026/04/09/artemis-ii-flight-day-9-crew-prepares-to-come-home/](https://www.nasa.gov/blogs/missions/2026/04/09/artemis-ii-flight-day-9-crew-prepares-to-come-home/) [When does Artemis II reenter Earth's atmosphere? What time is Artemis 2 splashdown? - `_Florida_` @usatoday @nasa-jpl @blackgirlscode](https://www.floridatoday.com/story/tech/science/space/2026/04/10/artemis-orion-splashdown-visibility-map-nasa-graphic-california-what-time/89543929007/)
