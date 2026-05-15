@@ -19,6 +19,14 @@ mermaid: true
  </div> 
 
 
+[https://ra5hard.github.io/compiling/](https://ra5hard.github.io/compiling/)
+<img  alt="image" src="https://github.com/user-attachments/assets/8554493b-279a-4bc5-a304-ac2e6516f8a2" />
+
+
+
+[<video preload="auto" width="auto" height="400px" controls src="https://archive.org/download/vid-20260411-163609-170/ABOUTDNSwhitehouseRecording%202026-05-15%20131926.mp4" />](https://archive.org/download/vid-20260411-163609-170/ABOUTDNSwhitehouseRecording%202026-05-15%20131926.mp4)
+
+
 ## The Artemis II Crew Share with [Oprah](https://www.kennedy-center.org/artists/w/wa-wn/oprah-winfrey/) _the Wisdom of Leaving Earth_ @nasa-jpl @blackgirlscode @emit-sds
 [@blackgirlscode @nasa-jpl youtube.com/watch?v=2ES9WGxEMK0](https://www.youtube.com/watch?v=2ES9WGxEMK0)
 
