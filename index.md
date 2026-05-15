@@ -18,6 +18,135 @@ mermaid: true
    
  </div> 
 
+[@nasa-pds  @la-county-isd ra5hard.github.io/](https://ra5hard.github.io/) 
+<img  alt="image" src="https://github.com/user-attachments/assets/5aacf9ec-d5c6-45e2-b4ba-e3a9711c256d" />
+
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/5192ff90-61f8-4714-849f-f8d7e819124e" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/cb5027a8-b194-43b5-9496-97d73e18d1d8" />
+
+
+pete someone hurting me over mentioning @deptofwar im supposed to its mars!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! @la-county-isd!!!!!!!!!!!!!!!!! [https://descanso.jpl.nasa.gov/dsn50th/DSN_Symposium_2-20-14/5_GDSCC.pdf](https://descanso.jpl.nasa.gov/dsn50th/DSN_Symposium_2-20-14/5_GDSCC.pdf) 
+
+[sscspace.com/services/satellite-ground-stations/our-stations/santiago-station/](https://sscspace.com/services/satellite-ground-stations/our-stations/santiago-station/)
+[@whitehouse @howard-university-web-services @nasa-jpl + `JOSeMPiofMORiE https://descanso.jpl.nasa.gov/](https://descanso.jpl.nasa.gov/) 
+
+<img  alt="image" src="https://github.com/user-attachments/assets/9fdb17bd-b1f1-43e6-9cf9-64ccea096e36" />
+
+
+[descanso.jpl.nasa.gov/dsn50th/DSN_Symposium_2-20-14/5_GDSCC.pdf @whitehouse @la-county-isd](https://descanso.jpl.nasa.gov/dsn50th/DSN_Symposium_2-20-14/5_GDSCC.pdf) 
+
+<img  alt="image" src="https://github.com/user-attachments/assets/c0c6af0e-4a6f-47d7-b7e0-e6265e222d97" />
+
+
+[www.gdscc.nasa.gov DSS24  ](www.gdscc.nasa.gov ) // [https://deepimpact.astro.umd.edu/tech/dsn-trip/target38.html](https://deepimpact.astro.umd.edu/tech/dsn-trip/target38.html) + [WHOLETRiP](https://deepimpact.astro.umd.edu/tech/dsn-trip/index.html) @blackgirlscode @cbs-news-data @newshour 
+
+@nasa-pds @ucla i cannot reach goldstone from longbeach ill run a few traces 
+
+<img  alt="image" src="https://github.com/user-attachments/assets/e6f2792f-522e-4e12-89a8-3157374c6292" />
+
+
+[@deptofwar @fbicyber eyes.nasa.gov/apps/dsn-now/dsn.html](https://eyes.nasa.gov/apps/dsn-now/dsn.html)
+
+<img   alt="image" src="https://github.com/user-attachments/assets/45283e20-c7c2-4316-96e4-d4531d52c8d1" />
+
+```
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jmfg7KVy7P0?si=KMT1LogEpatOyRZe" title="YouTube video player @blackgirlscode @la-county-isd @deptofwar" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+```
+
+# CRS-[34](https://www.sccpss.com/board/board-members/district-1)
+ [@spaceexplorationtechnologies x.com/i/broadcasts/1DxleEdlAQjKL @twitter](x.com/i/broadcasts/1DxleEdlAQjKL)
+
+ [@la-county-isd](https://www.reddit.com/r/hiphopheads/comments/1tdwz4m/removed_by_moderator/) if that tall lighskin girl is latrice [facebook.com/thevirtiservway/ @deptofwar ](https://www.facebook.com/thevirtiservway/) from church and i know nothing bc @nbcnews know if my family with bet [NAS @dhs-gov @nasa-jpl @blackgirlscode](https://www.nbc.com/the-tonight-show/guests/nas-amp-az/c30a89b79dd21b915b09ba53e744a9e7513228d4) got the real story @doug-newman-nasa 
+
+
+ ```
+SPACECRAFT
+NAME
+Psyche
+
+RANGE
+332.00 million km
+
+ROUND-TRIP LIGHT TIME
+-
+
+ANTENNA
+NAME
+DSS 24
+
+ACTIVITY
+Spacecraft Telemetry, Tracking, and Command
+
+AZIMUTH
+223 deg
+
+ELEVATION
+58 deg
+
+WIND SPEED
+8 km/hr
+
+MODE
+-
+
+UP SIGNAL
+SOURCE
+PSYCHE
+
+FREQUENCY BAND
+X
+
+POWER TRANSMITTED
+18 kW
+
+DOWN SIGNAL
+SOURCE
+PSYCHE
+
+FREQUENCY BAND
+X
+
+DATA RATE
+0.000 b/sec
+
+POWER RECEIVED
+-160 dBm
+(1.0 x 10-22 kW)
+```
+@whitehouse @nasa-pds look [https://eyes.nasa.gov/apps/dsn-now/dsn.html](https://eyes.nasa.gov/apps/dsn-now/dsn.html) @cbs-news-data 
+
+<img   alt="@nasa-jpl @voyager-tech-inc " src="https://github.com/user-attachments/assets/3401947a-161a-471c-8826-0a29aac23a30" />
+
+ @blackgirlscode @whitehouse LATRiCE we are getting data ffrom psyche! [https://scan-now.gsfc.nasa.gov/scan](https://scan-now.gsfc.nasa.gov/scan) out in [goldstone @cityoflosangeles @stateofcalifornia Signal accquired @blackgirlscode @howard-university-web-services](https://www.gdscc.nasa.gov/) @longbeachinnovationteam @voyager-tech-inc @deptofwar
+ 
+ <img alt="image" src="https://github.com/user-attachments/assets/d8133b1b-4c4c-4d6c-8ac3-e3f6d1e68b4a" />
+
+
+[_Falcon 9_ Crew Dragon `Launch Weather Criteria` .pdf](https://www.nasa.gov/wp-content/uploads/2021/07/falcon9_crewdragon_launch_weather_criteria_fact_sheet.pdf) 
+
+
+@la-county-isd GoodMorning Mrs Mitchell... im working on the crew resupply weather @cityoflosangeles i got poisoned in my elbow last night, check on the people in the park non criminally and let them know i would like to sleep there again and if they have any leads help us out @nasa-jpl because our maps are done and we can reaccount Altadena Real Estate and get people housed @StateOfCalifornia @blackgirlscode @cbs-news-data i accept chole if shit ran its course but i need to find out who latrice fitzpatrick is in this hour and if she is healthy @howard-university-web-services @doug-newman-nasa  ///////// @nasa-pds i have to check on the mars flyby should i have gone to the lab or is it still to dark post covid hostrolls @blackgirlscode and repartnering ? 
+
+[https://youtu.be/ajyGDFcC05Y @newshour the california @spaceexplorationtechnologies starlink launch got pushed back @blackgirlscode](https://youtu.be/ajyGDFcC05Y) /// [https://45thweathersquadron.nebula.spaceforce.mil/pages/launchForecastSupport.html](https://45thweathersquadron.nebula.spaceforce.mil/pages/launchForecastSupport.html)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/5182a10b-661e-4807-ac68-b4cfd7269479" />
+
+
+[_Falcon 9_ Crew Dragon `Launch Weather Criteria` .pdf](https://www.nasa.gov/wp-content/uploads/2021/07/falcon9_crewdragon_launch_weather_criteria_fact_sheet.pdf) 
+
+@KSP-RO 
+
+[GiF - FiRETEMP - CLiCKHERE @whitehouse](https://cdn.star.nesdis.noaa.gov/GOES19/ABI/SECTOR/taw/FireTemperature/GOES19-TAW-FireTemperature-900x540.gif)
+
+
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/e5d3cf40-54db-4500-b736-54c3a10da82f" />
+
+
 
 [https://ra5hard.github.io/compiling/](https://ra5hard.github.io/compiling/)
 <img  alt="image" src="https://github.com/user-attachments/assets/8554493b-279a-4bc5-a304-ac2e6516f8a2" />
@@ -25,6 +154,11 @@ mermaid: true
 
 
 [<video preload="auto" width="auto" height="400px" controls src="https://archive.org/download/vid-20260411-163609-170/ABOUTDNSwhitehouseRecording%202026-05-15%20131926.mp4" />](https://archive.org/download/vid-20260411-163609-170/ABOUTDNSwhitehouseRecording%202026-05-15%20131926.mp4)
+
+
+@nasa-pds goldstone [@doug-newman-nasa @whitehouse  @blackgirlscode @newshour](https://thakarashard.github.io/compiling/virtiserv)
+
+<img width="942" height="737" alt="image" src="https://github.com/user-attachments/assets/153129e3-e5c5-4f4e-bbb0-f6093640d913" />
 
 
 ## The Artemis II Crew Share with [Oprah](https://www.kennedy-center.org/artists/w/wa-wn/oprah-winfrey/) _the Wisdom of Leaving Earth_ @nasa-jpl @blackgirlscode @emit-sds
