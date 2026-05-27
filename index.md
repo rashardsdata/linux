@@ -18,6 +18,18 @@ mermaid: true
    
  </div> 
 
+ ![https://www.bluproducts.com/devices/view-5/images/t-e1.webp @nasa-jpl new phone i got cas in long beach @longbeachinnovationteam @nasa-pds @la-county-isd](https://www.bluproducts.com/devices/view-5/images/t-e1.webp)
+
+ [bluproducts.com/devices/view-5](https://www.bluproducts.com/devices/view-5/index.html)
+
+ **VIEW 5** packs a powerful punch with its MediaTek Helio A22 processor, 64GB of internal storage, and 3GB of RAM. Whether you're browsing the web, checking social media, or streaming your favorite shows, this phone delivers smooth performance.
+
+**64GB** Internal Memory
+
+**3GB** RAM
+
+![https://www.bluproducts.com/devices/view-5/images/t-e12.webp](https://www.bluproducts.com/devices/view-5/images/t-e12.webp)
+
 ![https://www.cisa.gov/sites/default/files/images/SVG/header_logo_tagline_update.svg](https://www.cisa.gov/sites/default/files/images/SVG/header_logo_tagline_update.svg)
 
 [nslookup.io/domains/home.treasury.gov/dns-records/ @US-Department-of-the-Treasury @whitehouse @la-county-isd](https://www.nslookup.io/domains/home.treasury.gov/dns-records/) ++++ [TraceLogs @ThakaRashard /logs](https://github.com/ThakaRashard/rashardmro/tree/master/assets/logs) ... _@LACMTA_ the car is in the filename @Blackgirlscode @nasa-jpl @nasa-pds
