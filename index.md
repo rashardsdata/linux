@@ -18,6 +18,108 @@ mermaid: true
    
  </div> 
 
+[Spencer Pratt](https://mayorpratt.com/?gad_source=1&gad_campaignid=23709957488&gbraid=0AAAABDJfeoDs0-oRfpJLL9Ph9SAskm-_E&gclid=Cj0KCQjwz9_QBhD_ARIsADnSCfAjEtK6Y2caMokoPcIq1Q_7yCOhy_PnPdu5IxIUT8nOpoMDNBSpz8IaAm9EEALw_wcB) accuses [LA Mayor Bass](https://mayor.lacity.gov/about-mayor-karen-bass) of VIOLATING election law
+[Watch - https://youtu.be/R8fYONtwdJU?si=vguQr6U5dqZkTTsh](https://youtu.be/R8fYONtwdJU?si=vguQr6U5dqZkTTsh)
+@la-county-isd you guys have to understand [i work @nasa-jpl](https://www.jpl.nasa.gov/virtual-tour/) but its a laboratory and in Los Angeles . . . @CityOfLosAngeles [Mayor Karen Bass](https://www.congress.gov/member/karen-bass/B001270) [[1](https://www.karenbass.com/?gad_source=1&gad_campaignid=23781673325&gbraid=0AAAABDeZFRaW4NZaQ0doJRwTNIELLQ-R-&gclid=Cj0KCQjwz9_QBhD_ARIsADnSCfCh0WMHohAWc2UghJuE33zAo1X68i7Yw604TB1rjNkq5Wpdt5JegxEaAutyEALw_wcB)], @CityOfLosAngeles @stateOfCalifornia if a candidate is digitally vandalized while in office what kind of protection can they seek with [california](https://www.gov.ca.gov/) elections rolling up ? 
+
+[https://lookup.icann.org/en/lookup](https://lookup.icann.org/en/lookup)
+
+Domain Information
+Name: KARENBASS.COM
+Registry Domain ID: The RDAP server redacted the value
+Domain Status:
+clientTransferProhibited
+
+clientUpdateProhibited
+
+Nameservers:
+CONRAD.NS. @CLOUDFLARE .COM
+
+NICOLE.NS.CLOUDFLARE.COM
+
+Dates
+Registry Expiration: 2026-06-23 22:02:25 UTC
+Registrar Expiration: 2026-06-23 22:02:25 UTC
+Updated: 2025-06-22 08:42:04 UTC
+Created: 2003-06-23 22:02:25 UTC
+
+```
+Domain Information
+Name: MAYORPRATT.COM
+Registry Domain ID: 3050648580_DOMAIN_COM-VRSN
+Domain Status:
+clientDeleteProhibited
+
+clientRenewProhibited
+
+clientTransferProhibited
+
+clientUpdateProhibited
+
+Nameservers:
+CONNECT1.SQUARESPACEDNS.COM
+
+CONNECT2.SQUARESPACEDNS.COM
+
+Dates
+Registry Expiration: 2026-12-23 17:21:13 UTC
+Registrar Expiration: 2026-12-23 12:21:13 UTC
+Updated: 2026-01-07 06:45:51 UTC
+Created: 2025-12-23 17:21:13 UTC
+Contact Information
+Registrant:
+Handle: mayorprattcom-reg
+Name: Registration Private
+Organization: Domains By Proxy, LLC
+Phone: tel:+1.4806242599
+Kind: org
+Mailing Address: DomainsByProxy.com 100 S. Mill Ave, Suite 1600, Tempe, Arizona, 85281
+ISO-3166 Code: US
+Contact Uri: https://www.godaddy.com/whois/results.aspx?domain=mayorpratt.com&action=contactDomainOwner
+
+Registrar Information
+Name: GoDaddy.com, LLC
+IANA ID: 146
+Abuse contact email: abuse@godaddy.com
+Abuse contact phone: tel:+1.480-624-2505
+About the Registrar: https://rdap.godaddy.com/v1/
+DNSSEC Information
+Delegation Signed: Unsigned
+
+Authoritative Servers
+Registry Server URL: https://rdap.verisign.com/com/v1/domain/mayorpratt.com
+Last updated from Registry RDAP DB: 2026-05-28T18:17:51Z
+Registrar Server URL: https://rdap.godaddy.com/v1/domain/MAYORPRATT.COM
+Last updated from Registrar RDAP DB: 2026-05-28T18:17:51Z
+```
+
+[@GavinNewsom @Doug-Newman-nasa](https://www.gov.ca.gov/)
+
+```shell
+C:\Users\PAC>nslookup -type=mx gov.ca.gov
+Server:  LBPADC2.lbpa.local
+Address:  192.168.129.12
+
+Non-authoritative answer:
+gov.ca.gov      MX preference = 5, mail exchanger = mx.us.mailmarshal.cloud
+
+mx.us.mailmarshal.cloud internet address = 20.81.234.0
+mx.us.mailmarshal.cloud internet address = 52.165.80.64
+mx.us.mailmarshal.cloud AAAA IPv6 address = 2602:f8d5:a1:1::
+mx.us.mailmarshal.cloud AAAA IPv6 address = 2602:f8d5:a1:8001::
+
+C:\Users\PAC>
+```
+
+<img  alt="image" src="https://github.com/user-attachments/assets/641a558b-dc6c-40bf-b28b-c390e274c954" />
+
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/693eae17-d7f9-4ff8-a4a3-59dce20005ed" />
+
+ <img alt="image" src="https://github.com/user-attachments/assets/40acbb71-67ff-449c-9b7c-2eed4f12e35f" />
+
+
  ![https://www.bluproducts.com/devices/view-5/images/t-e1.webp @nasa-jpl new phone i got cas in long beach @longbeachinnovationteam @nasa-pds @la-county-isd](https://www.bluproducts.com/devices/view-5/images/t-e1.webp)
 
  [bluproducts.com/devices/view-5](https://www.bluproducts.com/devices/view-5/index.html)
