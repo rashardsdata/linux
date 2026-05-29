@@ -18,6 +18,10 @@ mermaid: true
    
  </div> 
 
+ kellyrashard4@gmail.com 
+ <img alt="@nasa-jpl @blackgirlscode @la-county-isd kellyrashard4@gmail.com @protonmail rashardimankelly@protonmail.com @google @nasa @whtehouse" src="https://github.com/user-attachments/assets/ac11a031-67ab-4ecc-827a-7b81b0a1d342" />
+
+
 [Spencer Pratt](https://mayorpratt.com/?gad_source=1&gad_campaignid=23709957488&gbraid=0AAAABDJfeoDs0-oRfpJLL9Ph9SAskm-_E&gclid=Cj0KCQjwz9_QBhD_ARIsADnSCfAjEtK6Y2caMokoPcIq1Q_7yCOhy_PnPdu5IxIUT8nOpoMDNBSpz8IaAm9EEALw_wcB) accuses [LA Mayor Bass](https://mayor.lacity.gov/about-mayor-karen-bass) of VIOLATING election law
 [Watch - https://youtu.be/R8fYONtwdJU?si=vguQr6U5dqZkTTsh](https://youtu.be/R8fYONtwdJU?si=vguQr6U5dqZkTTsh)
 @la-county-isd you guys have to understand [i work @nasa-jpl](https://www.jpl.nasa.gov/virtual-tour/) but its a laboratory and in Los Angeles . . . @CityOfLosAngeles [Mayor Karen Bass](https://www.congress.gov/member/karen-bass/B001270) [[1](https://www.karenbass.com/?gad_source=1&gad_campaignid=23781673325&gbraid=0AAAABDeZFRaW4NZaQ0doJRwTNIELLQ-R-&gclid=Cj0KCQjwz9_QBhD_ARIsADnSCfCh0WMHohAWc2UghJuE33zAo1X68i7Yw604TB1rjNkq5Wpdt5JegxEaAutyEALw_wcB)], @CityOfLosAngeles @stateOfCalifornia if a candidate is digitally vandalized while in office what kind of protection can they seek with [california](https://www.gov.ca.gov/) elections rolling up ? 
