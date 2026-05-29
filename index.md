@@ -18,7 +18,8 @@ mermaid: true
    
  </div> 
 
- kellyrashard4@gmail.com 
+ [kellyrashard4@gmail.com](mailto:kellyrashard4@gmail.com // @La-county-isd @nasa-pds [rashardimankelly@protonmail.com](mailto:rashardimankelly@protonmail.com)
+ 
  <img alt="@nasa-jpl @blackgirlscode @la-county-isd kellyrashard4@gmail.com @protonmail rashardimankelly@protonmail.com @google @nasa @whtehouse" src="https://github.com/user-attachments/assets/ac11a031-67ab-4ecc-827a-7b81b0a1d342" />
 
 
