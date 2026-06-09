@@ -16,7 +16,13 @@ mermaid: true
      
   {% endfor %}
    
- </div> 
+</div> 
+
+
+[vsco.co/rashardsartu/gallery](https://vsco.co/rashardsartu/gallery)
+[vsco.co/earthdatarashard/gallery](https://vsco.co/earthdatarashard/gallery)
+
+[<video controls width="100%" height="auto" src="https://ia601704.us.archive.org/31/items/2025-12-20-00-00-2025-12-20-23-59-sentinel-2-l-2-a-true-color/000VSCOOVERViewRecording2026-06-09161554.mp4" />](https://ia601704.us.archive.org/31/items/2025-12-20-00-00-2025-12-20-23-59-sentinel-2-l-2-a-true-color/000VSCOOVERViewRecording2026-06-09161554.mp4)
 
 ![https://www.cisa.gov/sites/default/files/images/SVG/header_logo_tagline_update.svg](https://www.cisa.gov/sites/default/files/images/SVG/header_logo_tagline_update.svg)
 
