@@ -22,6 +22,39 @@ mermaid: true
 [vsco.co/rashardsartu/gallery](https://vsco.co/rashardsartu/gallery)
 [vsco.co/earthdatarashard/gallery](https://vsco.co/earthdatarashard/gallery)
 
+![image - RASHARDIMANKELLY PRACTIFCEMAD](https://github.com/user-attachments/assets/5be21c81-f8bd-4505-b33f-2fe7c7e1350e)
+![https://science.nasa.gov/mission/mars-2020-perseverance/ingenuity-mars-helicopter/](https://www.google.com/logos/fnbx/ingenuity/heli_dark.gif)
+
+[Mars rover mated with Atlas 5 launcher after teams deal with coronavirus cases](https://spaceflightnow.com/2020/07/09/mars-rover-mated-with-atlas-5-launcher-after-teams-deal-with-coronavirus-cases/)
+![https://spaceflightnow.com/wp-content/uploads/2020/07/KSC-20200618-PH-CMM01_0006large.jpg](https://spaceflightnow.com/wp-content/uploads/2020/07/KSC-20200618-PH-CMM01_0006large.jpg)
+
+![https://45thweathersquadron.nebula.spaceforce.mil/assets/images/sld45Patch.png](https://45thweathersquadron.nebula.spaceforce.mil/assets/images/sld45Patch.png)
+
+![https://45thweathersquadron.nebula.spaceforce.mil/assets/images/45wspatch.png](https://45thweathersquadron.nebula.spaceforce.mil/assets/images/45wspatch.png)
+
+[jpl.nasa.gov/news/press_kits/mro-arrival.pdf <~ @letschat@virtiserv.com ](jpl.nasa.gov/news/press_kits/mro-arrival.pdf)
+[https://arcnav.psi.edu/urn:nasa:pds:context:instrument_host:spacecraft.mro](https://arcnav.psi.edu/urn:nasa:pds:context:instrument_host:spacecraft.mro)
+
+![https://upload.wikimedia.org/wikipedia/commons/2/26/Mars_Reconnaissance_Orbiter_-_MOI_Flight_Ops_Team_Patch.png](https://upload.wikimedia.org/wikipedia/commons/2/26/Mars_Reconnaissance_Orbiter_-_MOI_Flight_Ops_Team_Patch.png)
+
+[https://historicspacecraft.com/Rockets_SpaceX.html](https://historicspacecraft.com/Rockets_SpaceX.html) @nasa-pds @nasa-jpl @blackgirlscode 
+
+![https://upload.wikimedia.org/wikipedia/commons/6/6b/Mars_Reconnaissance_Orbiter_insignia.png](https://upload.wikimedia.org/wikipedia/commons/6/6b/Mars_Reconnaissance_Orbiter_insignia.png)
+
+![https://d2pn8kiwq2w21t.cloudfront.net/images/27-mission-current-MRO.height-700.png](https://d2pn8kiwq2w21t.cloudfront.net/images/27-mission-current-MRO.height-700.png)
+
+![https://assets.science.nasa.gov/dynamicimage/assets/science/psd/mars/resources/detail_files/2/5/25068_MarsPerseverance-Launch-Red-Circle-Logo-Black-Text-Side-Stacked-web.jpg](https://assets.science.nasa.gov/dynamicimage/assets/science/psd/mars/resources/detail_files/2/5/25068_MarsPerseverance-Launch-Red-Circle-Logo-Black-Text-Side-Stacked-web.jpg)
+
+
+![https://web.archive.org/web/19970519060142im_/http://nssdc.gsfc.nasa.gov/logo/nssdc_logo_bg.gif](https://web.archive.org/web/19970519060142im_/http://nssdc.gsfc.nasa.gov/logo/nssdc_logo_bg.gif) 
+
+[https://web.archive.org/web/19970519060142/http://nssdc.gsfc.nasa.gov/ 1997 @nasa-giss @nasa-jpl](https://web.archive.org/web/19970519060142/http://nssdc.gsfc.nasa.gov/)
+
+
+
+[vsco.co/rashardsartu/gallery](https://vsco.co/rashardsartu/gallery)
+[vsco.co/earthdatarashard/gallery](https://vsco.co/earthdatarashard/gallery)
+
 [<video controls width="100%" height="auto" src="https://ia601704.us.archive.org/31/items/2025-12-20-00-00-2025-12-20-23-59-sentinel-2-l-2-a-true-color/000VSCOOVERViewRecording2026-06-09161554.mp4" />](https://ia601704.us.archive.org/31/items/2025-12-20-00-00-2025-12-20-23-59-sentinel-2-l-2-a-true-color/000VSCOOVERViewRecording2026-06-09161554.mp4)
 
  [kellyrashard4@gmail.com](mailto:kellyrashard4@gmail.com) // @La-county-isd @nasa-pds [rashardimankelly@protonmail.com](mailto:rashardimankelly@protonmail.com)
