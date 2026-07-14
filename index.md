@@ -24,6 +24,9 @@ mermaid: true
 ## Rashard Kelly 
 MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/) . . . @ucla hi from [Remote @Nasa-JPL](https://holetoanotheruniverse40.github.io/compiling/) 
 
+<img  alt="image" src="https://github.com/user-attachments/assets/585622ee-f0ed-4cac-96ed-200f816ca3aa" />
+
+
 @nasa-jpl @nasa  @blackgirlscode  [`fire in oregon` firms.modaps.eosdis.nasa.gov/map/#d:24hrs,24hrs;l:fires_all,countries,noaa21_crtc,earth;@-122.75,42.53,9.74z](https://firms.modaps.eosdis.nasa.gov/map/#d:24hrs,24hrs;l:fires_all,countries,noaa21_crtc,earth;@-122.75,42.53,9.74z) @nasa-openscapes @doug-newman-nasa 
 
 [<img alt="image" src="https://github.com/user-attachments/assets/e070138f-5df1-4444-bcb9-3a7e506032ba" />](https://github.com/user-attachments/assets/e070138f-5df1-4444-bcb9-3a7e506032ba)
