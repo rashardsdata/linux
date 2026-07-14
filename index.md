@@ -26,7 +26,7 @@ MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - gi
 
 @nasa-jpl @nasa  @blackgirlscode  [`fire in oregon` firms.modaps.eosdis.nasa.gov/map/#d:24hrs,24hrs;l:fires_all,countries,noaa21_crtc,earth;@-122.75,42.53,9.74z](https://firms.modaps.eosdis.nasa.gov/map/#d:24hrs,24hrs;l:fires_all,countries,noaa21_crtc,earth;@-122.75,42.53,9.74z) @nasa-openscapes @doug-newman-nasa 
 
-[<img alt="image" src="https://github.com/user-attachments/assets/e070138f-5df1-4444-bcb9-3a7e506032ba" />
+[<img alt="image" src="https://github.com/user-attachments/assets/e070138f-5df1-4444-bcb9-3a7e506032ba" />](https://github.com/user-attachments/assets/e070138f-5df1-4444-bcb9-3a7e506032ba)
 
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="@nasa-jpl @la-county-isd @cityoflosangeles @stateofcalifornia @nasa-giss @usatoday @newshour @United States Of America" />
